@@ -1,5 +1,5 @@
 import { Hono } from 'hono'
-import About from './About'
+import About from '../About'
 
 
 const app = new Hono()
